@@ -4,7 +4,7 @@ import java.io.*;
 import java.nio.charset.StandardCharsets;
 
 public class ArquivoJavaIO {
-    private static final String MEU_ARQUIVO2 = "//home//adelino//Maven" + File.separator + "arquivo-io.txt";
+    private static final String MEU_ARQUIVO2 = "caminho_do_arquivo" + File.separator + "nome_do_arquvivo.txt";
     public ArquivoJavaIO(){
 //        try{
 //            final File file = new File(MEU_ARQUIVO2);
