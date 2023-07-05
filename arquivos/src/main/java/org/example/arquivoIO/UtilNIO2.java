@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 
 public class UtilNIO2 {
 
-    private static final String MEU_ARQUIVO2 = "//home//adelino//Maven" + File.separator + "arquivo-nio2.txt";
+    private static final String MEU_ARQUIVO2 = "caminho_do_arquivo" + File.separator + "nome_do_arquvivo.txt";
 
     public UtilNIO2(){
         try {
