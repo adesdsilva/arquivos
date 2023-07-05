@@ -10,7 +10,7 @@ import java.nio.charset.StandardCharsets;
 
 public class UtilNIO {
 
-    private static final String MEU_ARQUIVO2 = "//home//adelino//Maven" + File.separator + "arquivo-nio.txt";
+    private static final String MEU_ARQUIVO2 = "caminho_do_arquivo" + File.separator + "nome_do_arquvivo.txt";
     public UtilNIO(){
         try {
             escreverArquivo();
